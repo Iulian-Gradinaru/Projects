@@ -1,0 +1,97 @@
+body{
+    max-width: 80%;
+    max-height: 80%;
+    padding: 5px;
+    margin: 3px;   
+}
+
+.color-name{
+    color: darkblue;
+}
+
+    
+.lineup{
+    background-color: darkblue;
+    margin: 5px;
+    padding: 5px;
+}
+
+.header{
+    text-align: left;
+    padding: 7px;
+    margin: 15px;
+}
+
+.header a {
+    text-decoration: none;
+}
+
+h2{
+    color: darkblue
+}
+.objective{ 
+    padding: 7px;
+    margin: 15px;
+    font-family: Arial, ;
+    text-indent: 20px;
+    letter-spacing: 0.2px;
+    line-height: 20px;
+    word-spacing: 3px;
+    font-style: oblique;
+}
+
+.experience{  
+    padding: 7px;
+    margin: 15px;
+    color: rgb(84, 21, 0);
+    font-family: Arial, ;
+    text-indent: 20px;
+    letter-spacing: 0.2px;
+    line-height: 20px;
+    word-spacing: 3px;
+    font-style: oblique;
+}
+
+
+.education{
+    padding: 7px;
+    margin: 15px;
+    color: rgb(84, 21, 0);
+    font-family: Arial, ;
+    text-indent: 20px;
+    letter-spacing: 0.2px;
+    line-height: 20px;
+    word-spacing: 3px;
+    font-style: oblique;
+}
+
+.skills{
+    padding: 7px;
+    margin: 15px;
+    color: rgb(84, 21, 0);
+    font-family: Arial, ;
+    text-indent: 20px;
+    letter-spacing: 0.2px;
+    line-height: 20px;
+    word-spacing: 3px;
+    font-style: oblique;
+}
+
+.achievements{
+    padding: 7px;
+    margin: 15px;
+    color: rgb(84, 21, 0);
+    font-family: Arial, ;
+    text-indent: 20px;
+    letter-spacing: 0.2px;
+    line-height: 20px;
+    word-spacing: 3px;
+    font-style: oblique;
+}
+
+.flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
